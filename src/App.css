@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  background-color: #131316;
+  color: white;
+}
+h2 {
+  font-size: 5em;
+  font-weight: bolder;
+}
+span {
+  color: red;
 }
 
 .App-logo {
